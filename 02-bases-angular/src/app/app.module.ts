@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { CounterModule } from './counter/counter.module';
 import { SuperHeroesModule } from './super-heroes/super-heroes.module';
+import { DbzModule } from './dbz/dbz.module';
 
 @NgModule({
   declarations: [
@@ -12,7 +13,8 @@ import { SuperHeroesModule } from './super-heroes/super-heroes.module';
   imports: [
     BrowserModule,
     CounterModule,
-    SuperHeroesModule
+    SuperHeroesModule,
+    DbzModule
   ],
   providers: [],
   bootstrap: [AppComponent]
