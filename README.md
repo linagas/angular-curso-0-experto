@@ -22,7 +22,7 @@ Código resultante del curso Angular: De cero a experto - Edición 2023
 - Decoradores
 - Encadenamiento opcional
 
-## Angular
+## Angular Bases
 
     Listado de los temas fundamentales:
 
@@ -35,3 +35,16 @@ Código resultante del curso Angular: De cero a experto - Edición 2023
 - Directivas creadas por Angular
 - ngIf y ngIf-else
 - Y más...
+
+## Expandiendo Bases de angular
+
+    Expandiendo Bases de Angular, con los siguientes temas:
+
+- Profundizar un poco más en los módulos
+- FormsModule
+- ngModel
+- @Inputs
+- @outputs
+- Servicios
+- Métodos en servicios
+- Depuraciones
