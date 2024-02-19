@@ -48,3 +48,13 @@ Código resultante del curso Angular: De cero a experto - Edición 2023
 - Servicios
 - Métodos en servicios
 - Depuraciones
+
+## Configuracion de los despliegues a producción
+
+    Esta sección con los siguientes temas:
+
+- Generar build de producción
+- Desplegar rapidamente
+- Netlify
+- Githup pages
+- npm Script para automatizar el proceso
